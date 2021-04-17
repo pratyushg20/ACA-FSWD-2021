@@ -1,11 +1,11 @@
 # ACA-FSWD-2021
 Here is the list of CMD commands I learnt recently-
-1. cd ->to change directory
-    - cd.. ->to go up one level
-    - cd\ ->to go to the root directory/drive
-2. d: ->to change the drive from C to D , similarly we can can change from D to C by c:
-3. dir ->to view the contents of the present directory
-4. mkdir <!---folder--> ->to make new directory/folder
+1. `cd` ->to change directory
+    - `cd..` ->to go up one level
+    - `cd\` ->to go to the root directory/drive
+2. `d:` ->to change the drive from C to D , similarly we can can change from D to C by c:
+3. `dir` ->to view the contents of the present directory
+4. `mkdir` <folder> ->to make new directory/folder
 5. ren <!---folder--> <!---new folder name--> ->to rename a folder
     - ren <!---filename.extension--> <!---new_file_name.extension--> ->to rename a file
 6. copy <!---location/filename.extension--> <!---new_location/new_filename.new_extension-->
