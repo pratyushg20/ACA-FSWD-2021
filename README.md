@@ -3,7 +3,7 @@
 1. `cd` ->to change directory
     - `cd..` ->to go up one level
     - `cd\` ->to go to the root directory/drive
-2. `d:` ->to change the drive from C to D , similarly we can can change from D to C by c:
+2. `d:` ->to change the drive from C to D , similarly we can can change from D to C by using `c:`
 3. `dir` ->to view the contents of the present directory
 4. `mkdir` _`folder`_ ->to make new directory/folder
 5. `ren` _`folder`_ _`new folder name`_ ->to rename a folder
