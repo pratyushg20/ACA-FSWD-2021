@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Assignment 3.0</title>
+        <!-- <link rel="stylesheet" href="styles.css"> -->
+        <style>
+            body {
+                background-color: lightskyblue;
+                color: black;
+                text-align: center;
+                align-items: center;
+                font-family: sans-serif;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="div1">
+            <button id="get_token" style="font-weight: 1000;">GET TOKEN TO REGISTER</button>
+        </div>
+        <br>
+        <h2>Register!</h2>
+        <form>
+            <input style="margin-bottom: 5px;" type="text" id="UserName" placeholder="User Name" size="70" required>
+            <br>
+            <input style="margin-bottom: 5px;" type="text" id="Data" placeholder="Enter Data" size="70" required>
+            <br>
+            <input style="margin-bottom: 5px;" type="text" id="Token" placeholder="Token" size="70" required>
+            <br>
+            <input type="button" value="Submit" id="Register" style="font-weight: 600;">
+        </form>
+        <br>
+        <h3>If you are already registered, enter your token below to access your data-</h3>
+        <form>
+            <input style="margin-bottom: 5px;" type="text" id="DataToken" placeholder="Token" size="30" required>
+            <br>
+            <input type="button" value="Submit" id="AccessData" style="font-weight: 600;">
+        </form>
+        <div id="div2"></div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
